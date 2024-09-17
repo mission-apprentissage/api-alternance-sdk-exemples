@@ -1,0 +1,13 @@
+{
+  "name": "api-alternance-sdk-exemples",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "type": "module",
+  "dependencies": {
+    "api-alternance-sdk": "^0.0.2-rc.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
